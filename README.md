@@ -1,4 +1,4 @@
-# conditionalGAN_TF
+# Conditional GAN with TensorFlow
 The repository provides the training codes for Conditional Generative Adversarial Networks on MNIST dataset using TensorFlow.  
 
 The idea of CGANs is to impose a condition on both generator and discriminator with some extra information from labels (y).
