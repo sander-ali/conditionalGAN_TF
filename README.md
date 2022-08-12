@@ -18,9 +18,9 @@ The results from CGAN on MNIST are shown below:
 
 ![res1](https://user-images.githubusercontent.com/26203136/184329701-48c84905-b6b0-4af5-8bc4-3844d6b2ce19.png)
 
-The code uses the following packages
-Tensorflow
-Numpy
-Matplotlib
-Graphviz
-Sklearn
+The code uses the following packages  
+Tensorflow  
+Numpy  
+Matplotlib  
+Graphviz  
+Sklearn  
