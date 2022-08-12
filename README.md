@@ -3,7 +3,7 @@ The repository provides the training codes for Conditional Generative Adversaria
 
 The idea of CGANs is to impose a condition on both generator and discriminator with some extra information from labels (y).
 
-The implementation is based on the original paper (Conditional Generative Adversarial Nets)[https://arxiv.org/pdf/1411.1784.pdf].  
+The implementation is based on the original paper [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf).  
 
 CGAN addresses the problem with GANs and DCGANs, i.e. zero control over the type of images that are generated. The control is regained by conditioning both the generator and discriminator on the class label y.
 
